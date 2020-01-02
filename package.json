@@ -1,0 +1,27 @@
+{
+  "name": "jsrmi_example1",
+  "version": "1.0.0",
+  "description": "example code for jsrmi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gobzateloon/JSRMI_Example.git"
+  },
+  "keywords": [
+    "jsrmi_example",
+    "jsrmi_login"
+  ],
+  "author": "Thanura Nadun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gobzateloon/JSRMI_Example/issues"
+  },
+  "homepage": "https://github.com/gobzateloon/JSRMI_Example#readme",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "jsrmi": "^1.0.2"
+  }
+}
